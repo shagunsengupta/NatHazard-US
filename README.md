@@ -2,7 +2,11 @@
 Multivariate Statistical Assessment of Natural Hazard Risk in the United States
 
 
-This repository contains R scripts for analyzing county and state-level risk data using various multivariate statistical techniques. The analysis includes data cleaning, exploratory data analysis, and clustering.
+This repository contains R scripts for analyzing county and state-level risk data using various multivariate statistical techniques. The analysis includes data cleaning, exploratory data analysis, and clustering. 
+
+## Source
+Data is sourced from FEMA Natural Hazard Risk data. It includes data about the expected annual losses to individual natural hazards, social vulnerability and community resilience, available at county and Census tract levels.
+https://www.fema.gov/flood-maps/products-tools/national-risk-index
 
 ## Files
 
