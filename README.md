@@ -8,10 +8,10 @@ This repository contains R scripts for analyzing county and state-level risk dat
 Data is sourced from FEMA Natural Hazard Risk data. It includes data about the expected annual losses to individual natural hazards, social vulnerability and community resilience, available at county and Census tract levels.
 https://www.fema.gov/flood-maps/products-tools/national-risk-index
 
-## Files
+## Analysis
 
-- `county_analysis.R`: Analysis of county-level risk data.
-- `state_analysis.R`: Analysis of state-level risk data.
+- Analysis of county-level risk data.
+- Analysis of state-level risk data.
 
 ## Requirements
 
@@ -20,11 +20,9 @@ https://www.fema.gov/flood-maps/products-tools/national-risk-index
   - `dplyr`
   - `ggplot2`
   - `cluster`
-  - `MASS`
+  - `MVN`
   - `mvnormtest`
-  - `mvtnorm`
-  - `psych`
-
+    
 ### Steps
 
 1. **Load and inspect data**
